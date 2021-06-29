@@ -68,7 +68,7 @@ const ProgressViewIOS = (
 
 const styles = StyleSheet.create({
   progressView: {
-    height: 2,
+    height: 6,
   },
 });
 
